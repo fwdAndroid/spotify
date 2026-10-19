@@ -19,3 +19,13 @@ samples, guidance on mobile development, and a full API reference.
 
 python3 -m venv venv. 
 Command is used to Create Python virtual Enviroment
+source ./venv/bin/activate
+To Activate Virtual Enviorement
+fastapi dev main.py
+To run FastAppi Server
+http://127.0.0.1:8000/docs
+To open the doucment of api so we can see parameter types etc
+http://127.0.0.1:8000/redoc
+TO see Doucmentation of FastAPI API
+pass
+Key word pass is used in signup api to avoid identication error
