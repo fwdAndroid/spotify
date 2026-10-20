@@ -29,3 +29,4 @@ http://127.0.0.1:8000/redoc
 TO see Doucmentation of FastAPI API
 pass
 Key word pass is used in signup api to avoid identication error
+Sessionmaker is a function which help to create new objkect when Its called
